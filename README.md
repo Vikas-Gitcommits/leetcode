@@ -5,17 +5,24 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
