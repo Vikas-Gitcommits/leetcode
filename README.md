@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
@@ -25,4 +27,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
