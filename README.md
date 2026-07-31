@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -23,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -40,5 +42,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
