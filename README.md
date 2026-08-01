@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,8 +60,10 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
