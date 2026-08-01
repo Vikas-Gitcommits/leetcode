@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
@@ -45,12 +46,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0134-gas-station) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
