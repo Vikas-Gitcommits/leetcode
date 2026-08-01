@@ -9,9 +9,9 @@ class Solution:
             if lb<=rb:
                 l+=1
                 lb=max(lb,h[l])
-                w+=(lb-h[l])
+                w+=lb-h[l]
             else:
                 r-=1
                 rb=max(rb,h[r])
-                w+=(rb-h[r])
+                w+=rb-h[r]
         return w
