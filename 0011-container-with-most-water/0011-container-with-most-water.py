@@ -3,7 +3,8 @@ class Solution:
         l=0
         r=len(h)-1
         maarea=0
-        while(l<r):
+       
+        while l<r:
             if h[l]<=h[r]:
                 area=h[l]*(r-l)
                 l+=1
@@ -12,4 +13,3 @@ class Solution:
                 r-=1
             maarea=max(maarea,area)
         return maarea
-        
