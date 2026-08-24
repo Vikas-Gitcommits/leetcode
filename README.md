@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
