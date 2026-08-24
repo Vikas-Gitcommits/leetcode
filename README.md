@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0055-jump-game) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
