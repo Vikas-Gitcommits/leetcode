@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1572-matrix-diagonal-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
