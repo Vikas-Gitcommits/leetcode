@@ -17,6 +17,7 @@
 | [0239-sliding-window-maximum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Vikas-Gitcommits/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
